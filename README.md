@@ -1,5 +1,5 @@
 # Chris-tiana-projects
-
+<!doctype HTML>
 <Html>
 <Body>
 <h1 style="color: red;"> The Solar System</h1>
