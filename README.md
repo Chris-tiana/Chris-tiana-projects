@@ -1,7 +1,7 @@
-<Html>
-<Body>
+<html>
+<body>
 <h1> The Solar System</h1>
-<Img src="https://cdn.mos.cms.futurecdn.net/YMtayWGwpiau57vwqDrDad.jpg">
+<img src="https://cdn.mos.cms.futurecdn.net/YMtayWGwpiau57vwqDrDad.jpg">
 <h6> Milky Way Galaxy</h6>
 
 <Strong>The Solar System is the gravitationally bound system of the Sun and the objects that orbit it. Of the bodies that orbit the Sun directly, the largest are the four gas and ice giants and the four terrestrial planets, followed by an unknown number of dwarf planets and innumerable small Solar System bodies. Of the bodies that orbit the Sun indirectly—the natural satellites—two are larger than Mercury, the smallest terrestrial planet, and one is nearly as large.</strong>
